@@ -759,11 +759,6 @@ ul {
     fill: #F4F4FD;
 }
 
-.review-form-checkbox:focus + .review-form-checkbox-label > .review-form-own-checkbox {
-    border-radius: 4px;
-    border: 1px solid rgb(64, 75, 191);
-}
-
 .review-form-own-checkbox {
     display: inline-flex;
     justify-content: center;
