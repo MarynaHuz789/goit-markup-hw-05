@@ -486,12 +486,7 @@ ul {
 }
 
 .subscribe-email {
-    color: #FFF;
-    font-family: Roboto;
-    font-size: 12px;
-    font-weight: 400;
-    line-height: 2em;
-    letter-spacing: 0.04em;
+    color: #ffffff;
     width: 264px;
     height: 40px;
     bottom: 0;
@@ -518,6 +513,16 @@ ul {
 .subscribe-form {
     display: flex;
     gap: 24px;
+}
+
+.input::placeholder {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.16em;
+    letter-spacing: 0.04em;
+    
 }
 
 .subscribe-button{
