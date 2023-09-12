@@ -152,7 +152,6 @@ ul {
     padding-top: 188px;
     padding-bottom: 188px;
     justify-content: center;
-    
 }
 
 .hero-title {
@@ -198,6 +197,7 @@ ul {
     padding-top: 120px;
     padding-bottom: 120px;
 }
+
 .visually-hidden {
     position: absolute;
     width: 1px;   
@@ -209,7 +209,7 @@ ul {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
- }
+}
 
 .list-about-us {
     display: flex;
@@ -336,6 +336,7 @@ ul {
 .media-icon-team:hover, .media-icon-team:focus {
     background-color: #404BBF;
 }
+
 .social-link-icon {
     fill: #F4F4FD;
 }
@@ -413,6 +414,7 @@ ul {
     display: flex;
     align-items: baseline;
 }
+
 .bottom {
     background-color: #2E2F42;
     height: 312px;
